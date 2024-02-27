@@ -87,3 +87,5 @@ Advancements in Beam Manipulation
 Conclusion
 
 Though now eclipsed by newer technologies, CRTs were instrumental in the development of television and computer displays. The ability to accurately manipulate an electron beam across a phosphor screen gave rise to the first electronic displays and remained the standard for many years. Modern advancements in CRT technology, before its decline, pushed the limits of image resolution, color accuracy, and design flexibility, showcasing the innovation and engineering expertise of the era.
+
+For similarities to EBL, see [this article](https://github.com/ChipHomeFab/ion-implantation/blob/main/EBL.md)
