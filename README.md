@@ -48,3 +48,42 @@ Ion implantation is used in various stages of semiconductor device fabrication, 
 -   **Well Formation**: Creating p-type or n-type wells in CMOS processes.
 
 -   **Source and Drain Engineering**: Doping the source and drain regions of transistors to improve their performance.
+
+## Similarities to cathode ray tubes (CRTs)
+-------------------------------------------
+Cathode Ray Tubes (CRTs): A Primer
+
+Cathode Ray Tubes (CRTs) have been a fundamental technology in the development of electronic displays, leading to the widespread adoption of television sets and computer monitors throughout the 20th century. Though largely replaced by more modern technologies such as LCD, LED, and OLED screens, CRTs remain a fascinating study in the evolution of electronic displays.
+Discovery
+
+The principles behind the cathode ray tube date back to the 19th century, with key contributions from several scientists. However, it was the work of the German physicist Karl Ferdinand Braun in 1897 that led to the development of the CRT as we know it. Braun invented the first cathode-ray oscilloscope, laying the groundwork for the future of electronic displays.
+How CRTs Work
+
+At its core, a CRT is a vacuum tube containing one or more electron guns (cathodes) and a fluorescent screen, with internal or external means to accelerate and deflect the electron beam(s), used to create images in the form of light emitted from the fluorescent screen.
+Key Components and Functionality
+
+- Electron Gun: Generates electrons. When heated, the cathode releases electrons into the vacuum.
+
+- Anodes: Accelerate the electrons towards the screen. A high voltage between the cathode and anode accelerates these electrons to high speeds.
+- Deflection System: Magnetic or electrostatic deflection is used to steer the electron beam(s) across the screen, line by line, to create an image.
+- Phosphor Screen: The inner surface of the screen is coated with phosphor. When struck by the high-speed electrons, the phosphor emits light, creating the visible image.
+
+Beam Manipulation and Accuracy
+
+The accuracy of beam manipulation in CRTs is a critical factor in determining the quality and resolution of the displayed image. Over the years, advancements in technology have significantly improved the precision with which the electron beam can be controlled.
+Magnetic vs. Electrostatic Deflection
+
+- Magnetic Deflection: Used in most CRTs, especially in televisions and monitors. Coils placed around the CRT create magnetic fields to deflect the electron beam. This method allows for the large-screen size of CRTs without significantly increasing the tube length.
+
+- Electrostatic Deflection: Uses voltage differences across plates inside the tube to deflect the beam. It offers more precise control but is more suitable for smaller screens or applications requiring high accuracy, like oscilloscopes.
+
+Advancements in Beam Manipulation
+
+- Improved Electron Gun Design: Enhancements in electron gun design have allowed for sharper and more focused electron beams, improving the resolution and clarity of images.
+
+- Dynamic Focus and Astigmatism Correction: Technologies that dynamically adjust focus and correct astigmatism across the screen have led to crisper images, even at the corners and edges.
+- Digital Control: The integration of digital technology with CRTs has enabled more precise control over beam deflection and intensity, resulting in better image quality and color accuracy.
+
+Conclusion
+
+Though now eclipsed by newer technologies, CRTs were instrumental in the development of television and computer displays. The ability to accurately manipulate an electron beam across a phosphor screen gave rise to the first electronic displays and remained the standard for many years. Modern advancements in CRT technology, before its decline, pushed the limits of image resolution, color accuracy, and design flexibility, showcasing the innovation and engineering expertise of the era.
